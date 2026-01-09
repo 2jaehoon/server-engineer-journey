@@ -1,19 +1,21 @@
 # Server Engineer Journey
 
-This repository documents my journey of transitioning into a Server / Platform Engineer.
+이 저장소는 리포트 솔루션 엔지니어로 근무하며  
+서버/플랫폼 엔지니어로 전향하기 위해 진행하는  
+학습과 실습, 그리고 사고 과정을 기록한 공간이다.
 
-## Background
-- Current role: Report Solution Engineer
-- Familiar with Linux environments
-- Experience communicating with customers and handling production issues
+## 배경
+- 현재 직무: 리포트 솔루션 엔지니어
+- 리눅스 환경에 대한 기본적인 사용 경험 보유
+- 고객사 커뮤니케이션 및 운영 이슈 대응 경험
 
-## Goals
-- Understand Linux, networking, and system fundamentals
-- Learn Docker and container-based environments
-- Build AWS infrastructure from scratch
-- Become a practical server/platform engineer
+## 목표
+- 리눅스, 네트워크, 시스템 기초 개념 정립
+- Docker 및 컨테이너 기반 환경 이해
+- AWS 인프라를 처음부터 직접 구성해보는 경험
+- 실무에서 활용 가능한 서버/플랫폼 엔지니어로 성장
 
-## Study Rules
-- Study at least 2 hours a day
-- Write a summary after every study session
-- Push all results to GitHub
+## 학습 원칙
+- 하루 최소 2시간 이상 학습
+- 매 학습 후 간단한 정리 및 회고 기록
+- 모든 결과물은 GitHub에 남겨 재현 가능하도록 관리
