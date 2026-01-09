@@ -1,11 +1,20 @@
-# Week 00 – Setup
+# Week 00 – 환경 세팅 및 방향 정리
 
-This week focuses on setting up the environment and organizing the learning journey.
+이번 주차는 본격적인 학습에 들어가기 전에  
+서버/플랫폼 엔지니어 전향을 위한 환경을 세팅하고  
+학습 기록을 남길 구조를 정리하는 데 목적이 있다.
 
-## Tasks
-- GitHub repository setup
-- README structure design
-- Archiving old repositories
+## 진행한 작업
+- GitHub 메인 저장소 생성 및 구조 설계
+- 학습 주차별 디렉터리 구성
+- 기존 개발 학습용 저장소 정리 및 아카이브 처리
+- 학습 기록을 남길 기준(형식, 커밋 규칙) 정의
 
-## Outcome
-- Clean starting point for server engineer journey
+## 이 단계가 중요한 이유
+- 학습 내용보다 **기록과 구조가 먼저 정리되어야** 지속적인 학습이 가능하다
+- 과거 개발 프로젝트와 현재 전향 목표를 명확히 분리할 필요가 있었다
+- GitHub를 단순 코드 저장소가 아닌 **학습 및 사고 과정 기록 공간**으로 사용하기 위함이다
+
+## 결과
+- 서버/플랫폼 엔지니어 전향을 위한 깔끔한 시작점 확보
+- 이후 학습 내용을 일관된 방식으로 정리할 수 있는 기반 마련
