@@ -1,3 +1,3 @@
-# Week 03 – Docker Basics
+# Week 02 – Docker Basics
 
 Learn container fundamentals and Docker usage.
