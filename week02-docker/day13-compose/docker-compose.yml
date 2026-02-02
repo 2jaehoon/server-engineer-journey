@@ -1,0 +1,10 @@
+services:
+  web:
+    image: nginx:latest
+    ports:
+      - "8083:80"
+    volumes:
+      - web-data:/usr/share/nginx/html
+volumes:
+  web-data:
+
